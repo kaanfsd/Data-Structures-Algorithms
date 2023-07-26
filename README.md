@@ -1,1 +1,3 @@
-# Data-Structures-Algorithms practices
+# Data-Structures-Algorithms
+
+Data Structures & Algorithms practices.
